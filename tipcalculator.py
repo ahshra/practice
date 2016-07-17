@@ -7,4 +7,4 @@ tip = 0.15
 meal = meal + meal * tax
 total = meal + meal * tip
 
-print("%.2f" % total) # print two decimals with %.2f
+print "Your total with tax and tip is " + ("%.2f" % total) # print two decimals with %.2f
