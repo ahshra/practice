@@ -1,4 +1,4 @@
-# below is a game where er is added to the end of everything.
+# below is a game where 儿 is added to the end of everything.
 
 z= u'\u513f'
 import sys
