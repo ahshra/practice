@@ -1,7 +1,7 @@
 #English to Chinese Study Tool
-# begin Chinese characters. To get unicode, go to: 
+#To setup session, get unicode fro desired character set at: 
 #http://www.mobilefish.com/services/unicode_escape_sequence_converter/unicode_escape_sequence_converter.php
-#Enter pinyin with tonal marks in number form (ex: 你 ni3)
+#Format utf-8 to match existing format. Enter pinyin with tonal marks in number form (ex: 你 ni3)
 
 print u'\u4e9a' u'\u4f26' u'\u5b66' u'\u4e60' u'\u6c49' u'\u8bed' u'\u7684' u'\u5de5' u'\u5177' '!'
 #import sys
