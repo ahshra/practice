@@ -1,5 +1,5 @@
 #English to Chinese Study Tool
-#To setup session, get unicode fro desired character set at: 
+#To setup session, get unicode for desired character set at: 
 #http://www.mobilefish.com/services/unicode_escape_sequence_converter/unicode_escape_sequence_converter.php
 #Format utf-8 to match existing format. Enter pinyin with tonal marks in number form (ex: 你 ni3)
 
