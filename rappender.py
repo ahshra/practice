@@ -5,7 +5,7 @@ import sys
 sys.stdout.encoding
 'US-ASCII'
 z.encode('utf-8')
-'\xe7\x8c\xab' #some necessary coding to account for variations in terminal environment 
+'\xe7\x8c\xab' #some coding to account for variations in terminal environment 
 #that will influence utf-8 and Chinese character output.
 
 original = raw_input('Enter a word and I\'ll put an "er" on the end of it : ')
