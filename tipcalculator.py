@@ -1,6 +1,6 @@
-# 1. tip calculator
+# 1. A tip calculator
 
-meal = 44.50
+meal = 44.51
 tax = 0.0675
 tip = 0.15
 
